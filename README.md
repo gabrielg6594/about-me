@@ -1,8 +1,8 @@
 # about-me
 
-Gabriel Gradzki
+<h1>Gabriel Gradzki<h1>
 
-gradzkig6594@hstat.org
+<h2>gradzkig6594@hstat.org<h2> 
 
 Highschool of Telecommunications
 
@@ -17,3 +17,4 @@ Pd5:Sep
 Pd6:Lunch 
 Pd7:Gym 
 Pd8:Ela
+
