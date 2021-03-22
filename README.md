@@ -21,5 +21,10 @@
 <li>Pd7:Gym </li>
 <li>Pd8:Ela</li>
 </ol>
+<ul> Things I learn in classes
+<li>Diffrent things about WW2</li>
+<li>Coding</li>
+<li>What are atoms</li>
+</ul>
 
 
