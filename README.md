@@ -1,20 +1,25 @@
 # about-me
 
+
 <h1>Gabriel Gradzki<h1>
 
 <h2>gradzkig6594@hstat.org<h2> 
 
-Highschool of Telecommunications
+<p><b>Highschool of Telecommunications</b><p>
 
-I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me.
+<p><i>I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me.</i><p>
 
-Schedule
-Pd1:Global
-Pd2:Chemestry
-Pd3:Spanish
-Pd4:Algebra 2
-Pd5:Sep 
-Pd6:Lunch 
-Pd7:Gym 
-Pd8:Ela
+---
+
+<ol>Schedule
+<li>Pd1:Global</li>
+<li>Pd2:Chemestry</li>
+<li>Pd3:Spanish</li>
+<li>Pd4:Algebra 2</li>
+<li>Pd5:Sep </li>
+<li>Pd6:Lunch </li>
+<li>Pd7:Gym </li>
+<li>Pd8:Ela</li>
+</ol>
+
 
