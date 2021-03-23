@@ -7,7 +7,7 @@
 
 <p><b>Highschool of Telecommunications</b><p>
 
-<p><i>I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me.</i><p>
+<p><i>I was born in brooklyn, I eat a lot of Doritos, and most of the teachers know me.</i><p>
 
 ---
 
