@@ -1,13 +1,13 @@
 # about-me
 
 
-#Gabriel Gradzki
+# Gabriel Gradzki
 
-###gradzkig6594@hstat.org 
+### gradzkig6594@hstat.org 
 
-<p>**Highschool of Telecommunications**<p>
+**Highschool of Telecommunications**
 
-<p>_I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me._<p>
+_I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me._
 
 ---
 
