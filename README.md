@@ -1,13 +1,13 @@
 # about-me
 
 
-<h1>Gabriel Gradzki<h1>
+#Gabriel Gradzki
 
-<h2>gradzkig6594@hstat.org<h2> 
+###gradzkig6594@hstat.org 
 
-<p><b>Highschool of Telecommunications</b><p>
+<p>**Highschool of Telecommunications**<p>
 
-<p><i>I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me.</i><p>
+<p>_I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me._<p>
 
 ---
 
@@ -29,4 +29,4 @@
 <a href="https://www.hstat.org/" >
 Click here to go to the Hstat school website
 </a>
-
+[Here is the Hstat website](https://www.hstat.org/)
