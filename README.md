@@ -21,11 +21,12 @@ _I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me.
 <li>Pd7:Gym </li>
 <li>Pd8:Ela</li>
 </ol>
-<ul> Things I learned in classes
-<li>Diffrent things about WW2</li>
-<li>Coding</li>
-<li>What are atoms</li>
-</ul>
+---
+### Things I learned in classes
+* Diffrent things about WW2
+* Coding
+* What are atoms
+
 <a href="https://www.hstat.org/" >
 Click here to go to the Hstat school website
 </a>
