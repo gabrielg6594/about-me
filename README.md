@@ -11,18 +11,22 @@ _I was born in brooklyn, I eat a lot of Takis, and most of the teachers know me.
 
 ---
 
-<ol>Schedule
-<li>Pd1:Global</li>
-<li>Pd2:Chemestry</li>
-<li>Pd3:Spanish</li>
-<li>Pd4:Algebra 2</li>
-<li>Pd5:Sep </li>
-<li>Pd6:Lunch </li>
-<li>Pd7:Gym </li>
-<li>Pd8:Ela</li>
-</ol>
+Schedule
+
+1. Pd1:Global
+2. Pd2:Chemestry
+3. Pd3:Spanish
+4. Pd4:Algebra 2
+5. Pd5:Sep 
+6. Pd6:Lunch 
+7. Pd7:Gym 
+8. Pd8:Ela
+
+
 ---
+
 ### Things I learned in classes
+
 * Diffrent things about WW2
 * Coding
 * What are atoms
